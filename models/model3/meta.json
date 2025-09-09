@@ -1,0 +1,15 @@
+{
+  "task": "affinity",
+  "n_bits": 2048,
+  "radius": 2,
+  "q_low": 0.1,
+  "q_high": 0.9,
+  "metrics_train_median": {
+    "R2": 0.9094769780956526,
+    "RMSE": 0.40249223594998695
+  },
+  "features": {
+    "protein": "AAC(20)+basic(4)",
+    "ligand": "MorganFP(2048,2)"
+  }
+}
