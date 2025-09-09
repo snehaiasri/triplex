@@ -1,0 +1,6 @@
+MolWt
+MolLogP
+NumHDonors
+NumHAcceptors
+TPSA
+NumRotatableBonds
