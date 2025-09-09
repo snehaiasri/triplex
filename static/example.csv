@@ -1,0 +1,7 @@
+molecule_id,SMILES
+CHEMBL132431 ,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)c2ccccc12 
+CHEMBL132142  ,Nc1nc(N)c2cc(CNc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)c4ccccc34)cnc2n1
+CHEMBL275309  ,Nc1nc(N)c2cc(CNc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)cnc2n1
+CHEMBL1977479 ,CC(=O)Nc1ccc(C(C(F)(F)F)(C(F)(F)F)C(F)(F)F)cc1 
+CHEMBL1979770 ,CN(C(=O)c1cccc(S(C)(=O)=O)c1)c1c(N)n(Cc2ccccc2)c(=O)[nH]c1=O 
+CHEMBL2005366  ,O=c1cc(CSc2ccc(C(F)(F)F)cn2)nc2ccc(Br)cn12
